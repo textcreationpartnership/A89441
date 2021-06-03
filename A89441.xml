@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The malignants inquest: or, A jury of cavaleirs (at Oxford) impeaching, condemning, and hanging one another. Where Ignatius Holy-water an Arch-bishop, Cathedrall Congee an Arch-deacon, Sir Bounteous Project one of His Majesties Privie Councell, Sir Bancrupt Hadland a Commissioner of Array, and Dammee Mouth-Gnu in the army, chiefe commander, are legally tryed and sentenced accordingly.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89441</idno><idno type="EEBO-CITATION">99861353</idno>
+  <idno type="VID">159602</idno>
+  <idno type="EEBO-PROQUEST">2240892635</idno>
+  
+            <idno type="STC">Wing M323</idno>
+            <idno type="STC">Thomason E328_11</idno>
+            <idno type="STC">ESTC R200674</idno>
+            <idno type="PROQUEST">99861353</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861353e"/>
+            <note>(EEBO-TCP ; phase 2, no. A89441)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159602)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 53:E328[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The malignants inquest: or, A jury of cavaleirs (at Oxford) impeaching, condemning, and hanging one another. Where Ignatius Holy-water an Arch-bishop, Cathedrall Congee an Arch-deacon, Sir Bounteous Project one of His Majesties Privie Councell, Sir Bancrupt Hadland a Commissioner of Array, and Dammee Mouth-Gnu in the army, chiefe commander, are legally tryed and sentenced accordingly.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by B.A. and published according to order,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>March 17. 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire--Thomason Catalogue.</note>
+                  <note>Annotation on Thomason copy: the second 6 in imprint date crossed out and date altered to 1645.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Royalists --  England --  17th century --  Fiction --  Early works to 1800.</term>
+               <term type="topical_term">Satire, English --  17th century.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Fiction --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159602:1"/>
+            <p>THE MALIGNANTS INQVEST: OR, A Jury of Cavaleirs (at <hi>Oxford</hi>) impeaching, condemning, and hanging one another.</p>
+            <p>WHERE <hi>Ignatius Holy-water</hi> an Arch-Bishop, <hi>Cathedrall Congee</hi> an Arch-Deacon, Sir <hi>Bounteous Project</hi> one of His Majesties Privie Councell, Sir <hi>Bancrupt Hadland</hi> a Commissioner of Array, and <hi>Dammee Mouth-Guts</hi> in the Army, chiefe Com<g ref="char:EOLhyphen"/>mander, are legally tryed and sen<g ref="char:EOLhyphen"/>tenced accordingly.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>B. A. And published according to Order, March</hi> 17▪ 1646. <add>1645</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:159602:2"/>
+            <pb facs="tcp:159602:2"/>
+            <head>THE MALIGNANTS <hi>INQVEST.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>T is a course very familiar amongst the most notorious malefactors at New-Gate, that about a week before the Sessions when they are certaine they shall be produced upon the Stage to receive a Tryall agreeable to Law; and so each man be censured accor<g ref="char:EOLhyphen"/>ding to his demerit, Doe summon the whole Crue of Ma<g ref="char:EOLhyphen"/>lignants together; and at a publike Councel then held (a<g ref="char:EOLhyphen"/>mongst themselves) nominate and appoint a part for a Re<g ref="char:EOLhyphen"/>corder and Iustices, some a Clerk of the Peace, and other Officers, which attend at everp Sessions, and another part for a Iury, and the rest prisoners for tryall: which done, the
+<pb n="4" facs="tcp:159602:3"/>Recorder and Iustices take their Seates, the Clerk of the Peace, and other Officers, their Places of Attendance, and then with all the Ceremony ordinary at Sessions, the Iury is impannelled, and the prisoners brought to tryall; which done, the Recorder and Iustices, with the prisoners change Seates, and so by turnes, impeach and condemn one ano<g ref="char:EOLhyphen"/>ther.</p>
+            <p>Now for that, many of these prisoners are men very know<g ref="char:EOLhyphen"/>ing in the Rules of Iustice, and the methodick Tryals at Sessions in regard of their long experience; and because they are acquainted with each others guilt, and what can be brought in Evidence against them; Doe hereby give the nearest guesse who shall he freed, who suffer, and by what punishment▪</p>
+            <p>In the very same manner it is with this black Guard of Antichrist; they conceive their time of Tryall cannot bee long, and that they are likely each man to be rewarded ac<g ref="char:EOLhyphen"/>cording to his offence they do here summon themselvs to<g ref="char:EOLhyphen"/>gether, and by turns sentence each other, and in all probabi<g ref="char:EOLhyphen"/>lity it followes, that these Cater-pillars being as notorious malefactors, as either now, or ever were in New-gate, and as knowing men in their wickednesse of each other; &amp; what punishment the Iustice of our English Lawes allow them, can with as much ease distinguish, and censure each others offences as the eldest Theeves in all New-gate.</p>
+            <sp>
+               <speaker>Clerk of the Peace:</speaker>
+               <p>Call <hi>Ignatius Holy Water: Ignatius Holy-VVater,</hi> hold up thy hand, Thou stands indicted here by the name of <hi>Ig<g ref="char:EOLhyphen"/>natius Holy-water,</hi> an Archbishop; for that thou trayte<g ref="char:EOLhyphen"/>rously, maliciously, and wilfully, hath for the space of these many yeers last past, endeavoured to exrirpate and root out
+<pb n="5" facs="tcp:159602:3"/>of the Church here in England the true Protestant Religi<g ref="char:EOLhyphen"/>on, and to that purpose hath fostered, cherished, and endea<g ref="char:EOLhyphen"/>voured, to set up in our Protestant Churches Superstitious Ceremonies, and Popish Innovations, both in thy Doctrine and Actions, by preaching and maintaining by Argument in the Pulpit and else-where Popish Tenents and Ceremo<g ref="char:EOLhyphen"/>nies, and practising and compelling others to bee Practisers and Imitators therof, To which thou hast pleaded <hi>Not guil<g ref="char:EOLhyphen"/>ty,</hi> and for thy Tryall hath put thy selfe upon the Iury here present.</p>
+               <p>VVhat say you? Is <hi>Ignatius Holywater</hi> guilty of that he stands indicted of, or not guilty.</p>
+            </sp>
+            <sp>
+               <speaker>Iury,</speaker>
+               <p>Guilty.</p>
+            </sp>
+            <sp>
+               <speaker>Clerk P.</speaker>
+               <p>Take him Gaoler.</p>
+            </sp>
+            <sp>
+               <speaker>Cl. P.</speaker>
+               <p>
+                  <hi>Ignatius Holy-water,</hi> thou hast bin here indicted, and upon a legall triall hast bin found guil<g ref="char:EOLhyphen"/>ty; therefore thy Sentence is this: thou art to depart hence to the place thou came from; and from thence to the place of Execution, and there to hang by the neck till thou die, And so thou mayst say we are mercifull unto thee.</p>
+            </sp>
+            <sp>
+               <speaker>C. P.</speaker>
+               <p>
+                  <hi>Cathedral Congee,</hi> hold up thy hand, thou ert in<g ref="char:EOLhyphen"/>dicted by the name of <hi>Cathedral Congee,</hi> an Arch-Deacon: For that thou <hi>Cathedral Congee</hi> hath for the space of these many yeers last past, trayterously, maliciously, and wilful<g ref="char:EOLhyphen"/>ly, been the chief Aider, Assister, and Complotter with <hi>Ig<g ref="char:EOLhyphen"/>natius Holywater,</hi> for the subversion of the Protestant Reli<g ref="char:EOLhyphen"/>gion here in England, and to that purpose did contrive ey<g ref="char:EOLhyphen"/>ther
+<pb n="6" facs="tcp:159602:4"/>to banish or silence all true Protestant Ministers that would not be practisers of pour Popish and Superstitious Ceremonies, as cringing and bowing at the Altar, that sing<g ref="char:EOLhyphen"/>ing of Prayer, as Hymns in the Quire, and playing with the Organs, in stead of Psalms to sing Anthims at the Ministers going up into the Pulpit and his coming down, the setting of Tapers upon the Communion Table, the repairing and glorious painting of Superstitious Images, which were de<g ref="char:EOLhyphen"/>molished in Queen <hi>Elizabeth's</hi> dayes, and that did not wear Superstitious Reliques at reading at the Service: And for thy great paines herein <hi>Ignatius Holy-water</hi> allowed thee three Benefices of 200. l. a yeere a peece, for which thou Preached it may be twice in a yeere, and allowed to each a poor innocent Curate to officiate for thee, and for their pains it may be allowed them some ten l. a yeere a peece: To which Indictment thou hast pleaded not guilty, and for thy Tryall put thy self this Iury here present. Is <hi>Cathedrall Congee</hi> guilty, or not guilty?</p>
+            </sp>
+            <sp>
+               <speaker>Iury,</speaker>
+               <p>Guilty.</p>
+            </sp>
+            <sp>
+               <speaker>C. P.</speaker>
+               <p>Take him Gaoler.</p>
+            </sp>
+            <sp>
+               <speaker>C. P.</speaker>
+               <p>
+                  <hi>Ignatius Holy-water,</hi> thou hast been here indicted, and upon a legall Triall hast been found guilty; Therefore thy Sentence is this, Thou art to depart hence to the place thou came from, and from thence to the place of Execution, and there to hang by the neck till thou die; And so thou may say we are mercifull unto thee.</p>
+               <p>Sir <hi>Bounteous Project</hi> hold up thy hand, Thou art indic<g ref="char:EOLhyphen"/>ted by the name of Sir <hi>Bounteous Project,</hi> one of his Maje<g ref="char:EOLhyphen"/>sties Privie Councell; For that thou hast maliciously, and rrayterously perswaded the Kings Majesty to Levie Forces
+<pb n="7" facs="tcp:159602:4"/>against His Liege Subjects within this Kingdome, and for these divers years last past, hath, and so still doth labour to raise Iealousies and Discentions betweene the King and His People, and hath possessed His Majesty that he cannot with safety of his person live amongst them, and hath endeavou<g ref="char:EOLhyphen"/>ued to stir Iealousies betwixt the King and His Parliament, To which Indietment thou hast pleaded not guilty, and for thy Tryall hath put thy self upon the Iury here present.</p>
+               <p>Is Sir <hi>Bounteous Project</hi> guilty of this Indictment, or not guilty?</p>
+            </sp>
+            <sp>
+               <speaker>Iury,</speaker>
+               <p>Guilty.</p>
+            </sp>
+            <sp>
+               <speaker>C. P.</speaker>
+               <p>Take him Gaoler.</p>
+            </sp>
+            <sp>
+               <speaker>C. P.</speaker>
+               <p>Sir <hi>Bounteous</hi> Project, thou hast been here indic<g ref="char:EOLhyphen"/>ted, and upon a legall Trial hast been found guilty; Therefore thy Sentence is this, Thou art to depart hence to the place thou came from, and from thence to take the place of Execution, and there to hang by the necke till thou die, And so thou may say, we are mercifull unto thee.</p>
+            </sp>
+            <sp>
+               <speaker>C. P.</speaker>
+               <p>Sir <hi>Bancrapt Hadland,</hi> hold up thy hand, Thou art indicted by the name of Sir <hi>Bancrapt Hadland,</hi> a Com<g ref="char:EOLhyphen"/>missioner of Array; For that thou hath for these 4 yeares last past, being disaffected to the Protestant Religion, and the peace of this Kingdome, put all the Papists and male-contented therof in a posture of VVarre, on purpose to raise a mutiny, to the losse of both lives and estates of many of many of His Mayesties Liege and well-affected Subjects, To which Indictment thou hast pleaded <hi>not guilty,</hi> and for thy Tryall hath put thy self upon the Iury here present.</p>
+               <p>Is Sir <hi>Bancrapt Hadland</hi> guilty, or not guilty?</p>
+            </sp>
+            <sp>
+               <speaker>Iury,</speaker>
+               <p>Guilty.</p>
+            </sp>
+            <sp>
+               <speaker>C. P.</speaker>
+               <p>Take him Gaoler.</p>
+            </sp>
+            <sp>
+               <pb n="8" facs="tcp:159602:5"/>
+               <speaker>C. P.</speaker>
+               <p>Sir. <hi>Bancropt Hadland,</hi> thou hast been here indict<g ref="char:EOLunhyphen"/>ed and upon a Legal Trial hast been found guilty, Therfore thy Sentence is this, Thou art to depart hence to the place thou came from, and from thence to the place of Execution, and there to hang by the neck till thou die, And so thou may say, wee are mercifull unto thee.</p>
+            </sp>
+            <sp>
+               <speaker>C. P.</speaker>
+               <p>
+                  <hi>Dammee Mourhgun</hi> hold up thy hand, Thou art indicted by the name of <hi>Dammee Mouthgun</hi> a Soldier, For that thou hast within the space of these four years last past out of a fore-thought malice murthered, slain, and destroy<g ref="char:EOLhyphen"/>ed many of His Majesties Liege People, and did then and there Felloniously take and cary away their goods, cattels, and estates, to the utter ruine of both the widowes, and Fa<g ref="char:EOLhyphen"/>therlesse children, To which Indictment thou hast pleaded not guilty, and for thy Triall hath put thy selfe upon this Iury?</p>
+               <p>Is <hi>Dammee Mouthgun</hi> guilty, or not guilty?</p>
+            </sp>
+            <sp>
+               <speaker>Iury,</speaker>
+               <p>Guilty.</p>
+            </sp>
+            <sp>
+               <speaker>C. P.</speaker>
+               <p>Look to him Gaoler.</p>
+            </sp>
+            <sp>
+               <speaker>C. P.</speaker>
+               <p>
+                  <hi>Damme Mouth-gun,</hi> thou hast been here indicted, and upon a Legal Trial hast been found guilty, Therefore thy thy Sentence is this, Thou art to depart hence to the place thou came from, and from thence to the place of Execution, and there to hang by the Neck till thou diest, And so thou may say, we are mercifull unto thee.</p>
+            </sp>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
